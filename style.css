@@ -1,0 +1,37 @@
+body {
+    background-image: url('noah\ kahan\ 2024.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  .countdown{
+    display: flex;
+    position: relative;
+    color:black;
+    top: 500px;
+    left: 800px;
+  }
+
+  .countdown div{
+    flex-basis: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+
+  .countdown div p{
+    font-size: 140px;
+    margin-bottom: -20px;
+    color: #63543f;
+    margin-left: 50px;
+    
+    
+  }
+
+  .countdown div span{
+    font-size: 30px;
+    color: #63543f;
+    margin-left: 60px;
+    font-weight: bold;
+
+  }
