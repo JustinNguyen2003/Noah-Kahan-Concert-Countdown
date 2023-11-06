@@ -7,7 +7,7 @@ body {
 
   .countdown{
     display: flex;
-    position: relative;
+    position: fixed;
     color:black;
     top: 500px;
     left: 750px;
